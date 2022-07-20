@@ -5,17 +5,12 @@
 	<key>files</key>
 	<dict>
 		<key>Resources/Base.lproj/InfoPlist.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			lgYCWdmOxXuOnb42gICqY6UUOJU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/bitcoin.icns</key>
 		<data>
-		kAb9yCG/hAeYZ5rnce6WCqkylHM=
+		lgYCWdmOxXuOnb42gICqY6UUOJU=
+		</data>
+		<key>Resources/dogecoin.icns</key>
+		<data>
+		o8v25ItE9hG+Q7PXtYzHt9onA3k=
 		</data>
 		<key>Resources/empty.lproj</key>
 		<data>
@@ -27,7 +22,7 @@
 		</data>
 		<key>Resources/qt_da.qm</key>
 		<data>
-		K7EDSB6TsFGFBgd3XWgFL3aOhbo=
+		IPCGjLnW67OW95eV6N6lX8Xg9r8=
 		</data>
 		<key>Resources/qt_de.qm</key>
 		<data>
@@ -35,11 +30,11 @@
 		</data>
 		<key>Resources/qt_es.qm</key>
 		<data>
-		wGxxbtAZludF7Ig++WPiclJg6U8=
+		1prruI6h8lJgWKLZMutiCD117qw=
 		</data>
 		<key>Resources/qt_hu.qm</key>
 		<data>
-		Eai6gDSetK4vWy5YjRUxn0aWmmk=
+		CZrXIeNmIBW7ydyQqBBMQR40XaQ=
 		</data>
 		<key>Resources/qt_ru.qm</key>
 		<data>
@@ -51,11 +46,11 @@
 		</data>
 		<key>Resources/qt_zh_CN.qm</key>
 		<data>
-		THfMpSsOyFoMjnvN+nlmlb0gZvk=
+		+qTsotH5JX9rhrK5y5PuZ7Is5/g=
 		</data>
 		<key>Resources/qt_zh_TW.qm</key>
 		<data>
-		bfOeLGgnw6Zg2LQye25ufzEYQ8k=
+		WgI7XzEbz4TvzQ2//Tebo/KPINs=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -66,53 +61,132 @@
 			<data>
 			lgYCWdmOxXuOnb42gICqY6UUOJU=
 			</data>
-			<key>optional</key>
-			<true/>
+			<key>hash2</key>
+			<data>
+			gSN9HmfZGzXdyk7XpL1ilHEG6Q1KlDQbeyUB80uGAnE=
+			</data>
 		</dict>
-		<key>Resources/bitcoin.icns</key>
-		<data>
-		kAb9yCG/hAeYZ5rnce6WCqkylHM=
-		</data>
+		<key>Resources/dogecoin.icns</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			o8v25ItE9hG+Q7PXtYzHt9onA3k=
+			</data>
+			<key>hash2</key>
+			<data>
+			kzOihu5khv3hxUJgZs+1Uj2/mJsj5EP20ze4DB/6HGE=
+			</data>
+		</dict>
 		<key>Resources/empty.lproj</key>
-		<data>
-		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+			</data>
+			<key>hash2</key>
+			<data>
+			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+			</data>
+		</dict>
 		<key>Resources/qt.conf</key>
-		<data>
-		MzKfr4zEj2t4UpjgE81ZSqT1TV4=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			MzKfr4zEj2t4UpjgE81ZSqT1TV4=
+			</data>
+			<key>hash2</key>
+			<data>
+			Na7agYO48mkxYzknVX3LE5KaZJARYVx+U2VCaNA9peE=
+			</data>
+		</dict>
 		<key>Resources/qt_da.qm</key>
-		<data>
-		K7EDSB6TsFGFBgd3XWgFL3aOhbo=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			IPCGjLnW67OW95eV6N6lX8Xg9r8=
+			</data>
+			<key>hash2</key>
+			<data>
+			sSsVdGT/lHYfgP5IFGwZ2Tj9IStZFb1d774japjtcy8=
+			</data>
+		</dict>
 		<key>Resources/qt_de.qm</key>
-		<data>
-		KBDc3X5Wv0mK48HsXOiyODjDNBM=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			KBDc3X5Wv0mK48HsXOiyODjDNBM=
+			</data>
+			<key>hash2</key>
+			<data>
+			VbvVwbKlai5s6S07WbRgwwxWeYzNeATsJ5Clhp8rhQs=
+			</data>
+		</dict>
 		<key>Resources/qt_es.qm</key>
-		<data>
-		wGxxbtAZludF7Ig++WPiclJg6U8=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			1prruI6h8lJgWKLZMutiCD117qw=
+			</data>
+			<key>hash2</key>
+			<data>
+			C47ncZwKmGu9nEtZ3xgCZuXctdOGSXD9kzc8UhsZVPE=
+			</data>
+		</dict>
 		<key>Resources/qt_hu.qm</key>
-		<data>
-		Eai6gDSetK4vWy5YjRUxn0aWmmk=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			CZrXIeNmIBW7ydyQqBBMQR40XaQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			Lbc5U6uM11fsofnSAQo2RSPbbJsrtfORxHJSofOxeNY=
+			</data>
+		</dict>
 		<key>Resources/qt_ru.qm</key>
-		<data>
-		apVOR6CG+CjaFIYn6l+r5GCmNTM=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			apVOR6CG+CjaFIYn6l+r5GCmNTM=
+			</data>
+			<key>hash2</key>
+			<data>
+			KtrUSjGAqOjVI4EQ4kKLQuM8XSHXGqNqoZTiizgOMMM=
+			</data>
+		</dict>
 		<key>Resources/qt_uk.qm</key>
-		<data>
-		HFP4Vm6dc3bVfiupWY6mvC7uHQA=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			HFP4Vm6dc3bVfiupWY6mvC7uHQA=
+			</data>
+			<key>hash2</key>
+			<data>
+			z8LK2Yu9I+B+jOJ0zxttE/jDLcxYRPBSv5Q6DGslh6Y=
+			</data>
+		</dict>
 		<key>Resources/qt_zh_CN.qm</key>
-		<data>
-		THfMpSsOyFoMjnvN+nlmlb0gZvk=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			+qTsotH5JX9rhrK5y5PuZ7Is5/g=
+			</data>
+			<key>hash2</key>
+			<data>
+			ERIyJttG01+BB5r7PIjTr+RjZFcHp8Lfsk8oZ/b8FLQ=
+			</data>
+		</dict>
 		<key>Resources/qt_zh_TW.qm</key>
-		<data>
-		bfOeLGgnw6Zg2LQye25ufzEYQ8k=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			WgI7XzEbz4TvzQ2//Tebo/KPINs=
+			</data>
+			<key>hash2</key>
+			<data>
+			H0p0XurqqgtHFQ0xxyCjminMHviElBGcYSXcYrMovnY=
+			</data>
+		</dict>
 	</dict>
 	<key>rules</key>
 	<dict>
@@ -131,6 +205,11 @@
 			<true/>
 			<key>weight</key>
 			<real>1100</real>
+		</dict>
+		<key>^Resources/Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
 		</dict>
 		<key>^version.plist$</key>
 		<true/>
@@ -190,6 +269,11 @@
 			<true/>
 			<key>weight</key>
 			<real>1100</real>
+		</dict>
+		<key>^Resources/Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
 		</dict>
 		<key>^[^/]+$</key>
 		<dict>
